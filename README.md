@@ -21,23 +21,23 @@ Had significant issues getting a successful print.  Print would break free from 
  * 0.6 mm nozzle
  * [INI File](ATARAXIA.ini)
  * Print Settings
-  * Layer Height (all): 0.3 mm
-  * Perimiters: 1
-  * Solid Layers
-   * Top: 1
-   * Bottom: 2
-  * Infill
-   * Density: 5%
-   * Combine: 2
-  * Print Speed: 40 mm/s
-  * Travel Speed: 100 mm/s
+   * Layer Height (all): 0.3 mm
+   * Perimiters: 1
+   * Solid Layers
+     * Top: 1
+     * Bottom: 2
+   * Infill
+     * Density: 5%
+     * Combine: 2
+   * Print Speed: 40 mm/s
+   * Travel Speed: 100 mm/s
  * Filament Settings
-  * Nozzle (all layers): 205C
-  * Bed (all layers): 60C
-  * Retract & Deretract Speed: 30 mm/s
+   * Nozzle (all layers): 205C
+   * Bed (all layers): 60C
+   * Retract & Deretract Speed: 30 mm/s
  * Printer Settings
-  * Nozzle Dia: 0.6 mm
-  * Retraction Length: 1 mm
-  * Saw recommendation to use low jerk values.
+   * Nozzle Dia: 0.6 mm
+   * Retraction Length: 1 mm
+   * Saw recommendation to use low jerk values.
   
  
