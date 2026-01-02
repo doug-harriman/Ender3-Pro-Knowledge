@@ -4,6 +4,12 @@
 
 * [Micro Swiss Direct Drive Extruder](https://store.micro-swiss.com/products/micro-swiss-direct-drive-extruder)
   * Extruder multiplier: 1.362
+
+# Design Guidelines
+
+## Threaded Inserts
+
+![Hole Size GUidelines](./what-size-do-you-use-for-the-holes-for-your-brass-thread.png)
   
  # Filament
  
